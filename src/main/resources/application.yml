@@ -3,9 +3,9 @@ spring:
   application:
     name: ms-cajaahorro-user
   datasource:
-    url: jdbc:postgresql://localhost:5432/gmcajaahorro
+    url: jdbc:postgresql://turntable.proxy.rlwy.net:17419/postgres
     username: postgres
-    password: Administrador
+    password: gCiXwshILdjFsegheCyvAdUYdjTHMfmx
   jpa:
     database: postgresql
     show-sql: true
