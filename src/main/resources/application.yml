@@ -1,5 +1,4 @@
-server:
-  port: ${PORT}   # Railway inyecta automáticamente PORT, por defecto 8080
+
 
 spring:
   application:
